@@ -1,0 +1,1 @@
+This will install terraform, waypoint, nomad and consul on Ubuntu 20
